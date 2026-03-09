@@ -1,0 +1,12 @@
+{
+  "name": "todo-manager",
+  "version": "1.0.0",
+  "description": "A minimal to-do list manager",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
